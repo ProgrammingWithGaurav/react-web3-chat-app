@@ -19,7 +19,6 @@ export default function Home() {
             <Messages />
         </div>
       </div>
-      <button onClick={logout}>Logout</button>
     </div>
   )
 }
